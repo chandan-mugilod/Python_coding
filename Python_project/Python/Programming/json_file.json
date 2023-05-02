@@ -1,0 +1,20 @@
+{
+  "students": [
+    {
+      "name": "yugal",
+      "lastname": "tufu"
+    },
+    {
+      "name": "manoj",
+      "lastname": "kinh"
+    },
+    {
+      "name": "pooja",
+      "lastname": "king"
+    },
+    {
+      "name": "ravi",
+      "lastname": "cook"
+    }
+  ]
+}
